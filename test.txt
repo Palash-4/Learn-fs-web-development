@@ -3,3 +3,4 @@ I am a student.
 I am living Pabna.
 I am a cse student.
 I am studing at Daffodil International Univarsity.
+I have skills c programming.
